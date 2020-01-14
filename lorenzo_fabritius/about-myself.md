@@ -8,4 +8,8 @@ Lorenzo
 ```
 #Hobbies:
 
-Good hobbies but they had to gooooo
+Football
+Skiing
+Djing
+
+```
