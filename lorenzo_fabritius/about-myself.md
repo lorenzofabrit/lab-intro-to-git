@@ -8,7 +8,4 @@ Lorenzo
 ```
 #Hobbies:
 
-Skiing
-DJing
-Reading
-``
+Good hobbies but they had to gooooo
